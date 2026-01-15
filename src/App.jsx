@@ -272,6 +272,14 @@ export default function App() {
                 >
                   <Linkedin className="h-4 w-4" /> LinkedIn
                 </a>
+                <a
+                  href="https://drive.google.com/file/d/1hCgtP1wVwfCXvCG1jJe_PiVFkOcJamiI/view?usp=drive_link"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="inline-flex items-center gap-2 rounded-2xl border border-white/10 bg-white/5 px-5 py-3 text-sm text-slate-200 hover:bg-white/10"
+                >
+                  My Resume
+                </a>
               </motion.div>
 
             </div>
