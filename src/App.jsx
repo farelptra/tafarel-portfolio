@@ -120,7 +120,7 @@ const EXPERIENCE = [
 const VOLUNTEERING = [
   {
     title: 'Volunteer, Health Division',
-    org: 'Kejar Mimpi Mengabdi Tangerang Selatan (Gunung Anten Village, Banten)',
+    org: 'Kejar Mimpi Tangerang Selatan Serving (Gunung Anten Village, Banten)',
     period: 'May 2023 - Jul 2023',
     bullets: [
       'Delivered an anti-drug (NAPZA) awareness session for ~100 junior high students through presentations and interactive discussions.',
